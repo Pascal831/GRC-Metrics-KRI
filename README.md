@@ -38,9 +38,3 @@ Track and communicate your organization's risk posture using **Key Risk Indicato
 - 📐 GRC metrics framework design  
 - 📢 Risk posture communication  
 - 📊 KPI visualization and reporting  
-
----
-
-## 📜 License
-
-This project is for educational purposes and can be reused or customized freely.
