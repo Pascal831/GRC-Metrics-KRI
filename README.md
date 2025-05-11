@@ -1,41 +1,46 @@
 # 📊 GRC Metrics & KRI Dashboard
 
-This project demonstrates how to track and communicate risk posture using Key Risk Indicators (KRIs) and executive-level reporting. It supports proactive GRC management and leadership decision-making.
+Track and communicate your organization's risk posture using **Key Risk Indicators (KRIs)** and executive-level reporting. This hands-on project supports proactive GRC management and risk communication.
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Objectives
 
-- Define and visualize GRC metrics through a dashboard  
-- Communicate compliance health using Key Risk Indicators  
-- Deliver board-level risk updates with actionable insights  
-
----
-
-## 📁 Project Files
-
-| File | Description |
-|------|-------------|
-| [`GRC_KRI_Dashboard.xlsx`](./GRC_KRI_Dashboard.xlsx) | Sample dashboard with 6 KRIs and traffic light status |
-| [`GRC_Quarterly_Risk_Update.docx`](./GRC_Quarterly_Risk_Update.docx) | Summary report with insights and recommendations |
+✅ **Define and visualize** key GRC metrics  
+✅ **Communicate** risk and compliance posture clearly  
+✅ **Deliver** executive-ready insights to stakeholders  
 
 ---
 
-## 📌 KRIs Tracked
+## 📁 Files Included
 
-- % of overdue risk mitigations  
-- Number of open audit findings  
-- Average incident resolution time  
-- High-risk vendor count  
-- Security training completion rate  
-- Unpatched critical vulnerabilities  
+📊 [`GRC_KRI_Dashboard.xlsx`](./GRC_KRI_Dashboard.xlsx)  
+> Interactive dashboard with 6 KRIs and traffic light indicators
+
+📝 [`GRC_Quarterly_Risk_Update.docx`](./GRC_Quarterly_Risk_Update.docx)  
+> Executive summary with recommendations and highlights
+
+---
+
+## 📌 Key Risk Indicators (KRIs)
+
+- 🔴 **% of overdue risk mitigations**  
+- ✅ **Number of open audit findings**  
+- 🟡 **Average incident resolution time**  
+- 🔴 **Number of high-risk vendors**  
+- 🟡 **Security training completion**  
+- 🔴 **Unpatched critical vulnerabilities**
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- GRC metrics design and tracking  
-- Risk communication to stakeholders  
-- KPI visualization and reporting  
+- 📐 GRC metrics framework design  
+- 📢 Risk posture communication  
+- 📊 KPI visualization and reporting  
 
 ---
+
+## 📜 License
+
+This project is for educational purposes and can be reused or customized freely.
